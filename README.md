@@ -11,6 +11,7 @@ Design
   - [ ] Типографика
     - [ ] https://bureau.ru/bb/soviet/20140630/
   - [ ] Модульные сетки
+    - [x] https://bureau.ru/bb/soviet/20140818/ правило внутреннего и внешнего
     - [ ] https://habr.com/post/344910/
     - [ ] http://blog.aic.ru/osnovnoj-tekst-na-vashem-sajte-slishkom-melkij/
     - [ ] https://habr.com/company/edison/blog/340670/
