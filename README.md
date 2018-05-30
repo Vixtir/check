@@ -24,7 +24,7 @@ Design
     - [ ] https://www.behance.net/gallery/21817975/The-Grid-Website-%28Free-PSDs%29
     - [ ] https://habr.com/post/340258/
     - 8pt grid
-     - [ ] https://spec.fm/specifics/8-pt-grid 
+     - [x] https://spec.fm/specifics/8-pt-grid 
      - [ ] https://habr.com/company/everydaytools/blog/319700/
      - [ ] http://sketchapp.me/setka-na-osnove-8pt-obvodka-i-razmetka/
      - [ ] https://medium.com/sketch-app-sources/8-point-soft-grids-in-sketch-e8f1d5ca2cd4
