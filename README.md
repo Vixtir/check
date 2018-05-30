@@ -10,6 +10,7 @@ Design
   Layout
   - [ ] Типографика
     - [ ] https://bureau.ru/bb/soviet/20140630/
+    - [ ] http://alistapart.com/article/settingtypeontheweb
   - [ ] Модульные сетки
     - [x] https://bureau.ru/bb/soviet/20140818/ правило внутреннего и внешнего
     - [ ] https://habr.com/post/344910/
