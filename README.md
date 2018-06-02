@@ -2,6 +2,7 @@
 JS
 
 HTML
+- [ ] inline / block / inline-block / flex 
 CSS
 - [ ] 3D animations
 
